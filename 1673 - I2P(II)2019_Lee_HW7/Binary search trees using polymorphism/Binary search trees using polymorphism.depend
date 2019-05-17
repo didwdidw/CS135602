@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1557321588 source:c:\users\admin\desktop\introduction_to_programing\1673 - i2p(ii)2019_lee_hw7\binary search trees using polymorphism\main.cpp
+	<iostream>
+	<string.h>
+	"function.h"
+
+1557321570 c:\users\admin\desktop\introduction_to_programing\1673 - i2p(ii)2019_lee_hw7\binary search trees using polymorphism\function.h
+	<iostream>
+	<math.h>
+
+1557686187 source:c:\users\admin\desktop\introduction_to_programing\1673 - i2p(ii)2019_lee_hw7\binary search trees using polymorphism\function.cpp
+	"function.h"
+	<string.h>
+

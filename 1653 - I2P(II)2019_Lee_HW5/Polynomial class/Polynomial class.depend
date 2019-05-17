@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1556461318 source:c:\users\admin\desktop\introduction_to_programing\1653 - i2p(ii)2019_lee_hw5\polynomial class\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	"function.h"
+
+1556459341 c:\users\admin\desktop\introduction_to_programing\1653 - i2p(ii)2019_lee_hw5\polynomial class\function.h
+	<iostream>
+
+1556552105 source:c:\users\admin\desktop\introduction_to_programing\1653 - i2p(ii)2019_lee_hw5\polynomial class\function.cpp
+	"function.h"
+	<string.h>
+

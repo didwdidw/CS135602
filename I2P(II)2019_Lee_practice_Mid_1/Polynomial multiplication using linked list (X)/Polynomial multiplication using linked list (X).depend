@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553840043 source:c:\users\admin\desktop\introduction_to_programing\i2p(ii)2019_lee_practice_mid_1\polynomial multiplication using linked list (x)\main.c
+	"function.h"
+
+1553839864 c:\users\admin\desktop\introduction_to_programing\i2p(ii)2019_lee_practice_mid_1\polynomial multiplication using linked list (x)\function.h
+
+1553879419 source:c:\users\admin\desktop\introduction_to_programing\i2p(ii)2019_lee_practice_mid_1\polynomial multiplication using linked list (x)\function.c
+	<stdlib.h>
+	<stdio.h>
+	"function.h"
+

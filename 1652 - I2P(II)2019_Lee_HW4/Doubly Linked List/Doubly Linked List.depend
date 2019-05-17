@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1556561675 source:c:\users\admin\desktop\introduction_to_programing\1652 - i2p(ii)2019_lee_hw4\doubly linked list\main.cpp
+	<iostream>
+	<stdexcept>
+	<string>
+	"function.h"
+
+1556387881 c:\users\admin\desktop\introduction_to_programing\1652 - i2p(ii)2019_lee_hw4\doubly linked list\function.h
+	<iostream>
+
+1556561630 source:c:\users\admin\desktop\introduction_to_programing\1652 - i2p(ii)2019_lee_hw4\doubly linked list\function.cpp
+	<stdexcept>
+	"function.h"
+

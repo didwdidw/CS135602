@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1556563143 source:c:\users\admin\desktop\introduction_to_programing\1653 - i2p(ii)2019_lee_hw5\josephus with fibonacci number\main.cpp
+	<iostream>
+	"function.h"
+
+1556565242 c:\users\admin\desktop\introduction_to_programing\1653 - i2p(ii)2019_lee_hw5\josephus with fibonacci number\function.h
+	<iostream>
+
+1556566620 source:c:\users\admin\desktop\introduction_to_programing\1653 - i2p(ii)2019_lee_hw5\josephus with fibonacci number\function.cpp
+	"function.h"
+

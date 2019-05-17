@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1557240871 source:c:\users\admin\desktop\introduction_to_programing\1666 - i2p(ii)2019_lee_hw6\string operation\function.cpp
+	"function.h"
+
+1557240894 c:\users\admin\desktop\introduction_to_programing\1666 - i2p(ii)2019_lee_hw6\string operation\function.h
+	<iostream>
+
+1557240470 source:c:\users\admin\desktop\introduction_to_programing\1666 - i2p(ii)2019_lee_hw6\string operation\main.cpp
+	"function.h"
+	"string.h"
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1557344496 source:c:\users\admin\desktop\introduction_to_programing\1673 - i2p(ii)2019_lee_hw7\encoding and decoding\main.cpp
+	<iostream>
+	"function.h"
+
+1557344506 c:\users\admin\desktop\introduction_to_programing\1673 - i2p(ii)2019_lee_hw7\encoding and decoding\function.h
+	<iostream>
+	<string>
+
+1557682649 source:c:\users\admin\desktop\introduction_to_programing\1673 - i2p(ii)2019_lee_hw7\encoding and decoding\function.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<cctype>
+	"function.h"
+

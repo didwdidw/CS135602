@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1557718098 source:c:\users\admin\desktop\introduction_to_programing\i2p(ii)2019_lee_practice_mid_2\implement a vector 2\main.cpp
+	<cstdlib>
+	<iostream>
+	<string>
+	"function.h"
+
+1557772891 c:\users\admin\desktop\introduction_to_programing\i2p(ii)2019_lee_practice_mid_2\implement a vector 2\function.h
+	<cstddef>
+	<iosfwd>
+

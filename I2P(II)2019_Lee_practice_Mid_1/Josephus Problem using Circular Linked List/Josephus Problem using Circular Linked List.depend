@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1553939332 source:c:\users\admin\desktop\introduction_to_programing\i2p(ii)2019_lee_practice_mid_1\josephus problem using circular linked list\main.c
+	<stdio.h>
+	"function.h"
+
+1553939181 c:\users\admin\desktop\introduction_to_programing\i2p(ii)2019_lee_practice_mid_1\josephus problem using circular linked list\function.h
+
+1553942000 source:c:\users\admin\desktop\introduction_to_programing\i2p(ii)2019_lee_practice_mid_1\josephus problem using circular linked list\function.c
+	<stdlib.h>
+	<stdio.h>
+	"function.h"
+

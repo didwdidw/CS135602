@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1557688875 source:c:\users\admin\desktop\introduction_to_programing\i2p(ii)2019_lee_practice_mid_2\list class\function.cpp
+	"function.h"
+
+1557686372 c:\users\admin\desktop\introduction_to_programing\i2p(ii)2019_lee_practice_mid_2\list class\function.h
+	<iostream>
+
+1557748106 source:c:\users\admin\desktop\introduction_to_programing\i2p(ii)2019_lee_practice_mid_2\list class\main.cpp
+	<iostream>
+	<string>
+	"function.h"
+	<stdlib.h>
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1553800493 source:c:\users\admin\desktop\introduction_to_programing\i2p(ii)2019_lee_practice_mid_1\sum of leaf nodes\function.c
+	<stdlib.h>
+	"function.h"
+
+1553798484 c:\users\admin\desktop\introduction_to_programing\i2p(ii)2019_lee_practice_mid_1\sum of leaf nodes\function.h
+	<stdlib.h>
+
+1553798560 source:c:\users\admin\desktop\introduction_to_programing\i2p(ii)2019_lee_practice_mid_1\sum of leaf nodes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"function.h"
+
+1553798560 source:c:\users\admin\desktop\introduction_to_programing\i2p(ii)2019_lee_practice_mid_1\sum of leaf nodes (x)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"function.h"
+
+1553798484 c:\users\admin\desktop\introduction_to_programing\i2p(ii)2019_lee_practice_mid_1\sum of leaf nodes (x)\function.h
+	<stdlib.h>
+
